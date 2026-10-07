@@ -1,0 +1,16 @@
+# Ren'Py compiled script files
+*.rpyc
+*.rpyb
+*.rpymc
+
+# Ren'Py cache and save folders
+**/cache/
+**/saves/
+log.txt
+
+# OS and Editor temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
